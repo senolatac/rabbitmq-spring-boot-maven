@@ -1,0 +1,1 @@
+# rabbitmq-spring-boot-maven
